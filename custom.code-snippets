@@ -1,0 +1,14 @@
+{
+  "New React file": {
+    "prefix": "nr",
+    "body": [
+      "import React from \"react\"",
+      "",
+      "const $1 = ({ $2 }) => {",
+      "  $3",
+      "}",
+      "",
+      "export default $1"
+    ],
+  }
+}
